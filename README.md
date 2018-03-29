@@ -17,7 +17,6 @@
 
 <!-- tocstop -->
 
-
 CakePHP Sample App on OpenShift
 ===============================
 
